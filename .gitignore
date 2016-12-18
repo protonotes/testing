@@ -1,0 +1,4 @@
+nenv/
+*.pyc
+__pycache__/
+terminal_city/
